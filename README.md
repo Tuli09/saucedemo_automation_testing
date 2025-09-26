@@ -16,3 +16,6 @@ Successfully completed.
 
 The test files are such that you can run them altogether or seperately. Allure open command in the terminal opens the reporting.
 
+```bash
+git clone https://github.com/Tuli09/saucedemo_automation_testing.git
+```
