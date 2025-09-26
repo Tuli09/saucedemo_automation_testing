@@ -1,0 +1,21 @@
+Product: Sauce Labs Onesie
+Price: $7.99
+Product: Sauce Labs Backpack
+Price: $29.99
+Product: Sauce Labs Fleece Jacket
+Price: $49.99
+All 3 selected products: [
+  'Sauce Labs Onesie',
+  'Sauce Labs Backpack',
+  'Sauce Labs Fleece Jacket'
+]
+All 3 selected products price: [ '$7.99', '$29.99', '$49.99' ]
+Productname: Sauce Labs Onesie,Sauce Labs Backpack,Sauce Labs Fleece Jacket
+3 cart products: [
+  'Sauce Labs Onesie',
+  'Sauce Labs Backpack',
+  'Sauce Labs Fleece Jacket'
+]
+Total price Total: $95.01
+Total: $95.01
+Thank you for your order!

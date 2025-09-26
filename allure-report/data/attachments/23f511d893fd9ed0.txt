@@ -1,0 +1,10 @@
+Product: Sauce Labs Backpack
+Price: $29.99
+Product: Sauce Labs Backpack
+Price: $29.99
+Product: Sauce Labs Backpack
+Price: $29.99
+All 3 selected products: [ 'Sauce Labs Backpack', 'Sauce Labs Backpack', 'Sauce Labs Backpack' ]
+All 3 selected products price: [ '$29.99', '$29.99', '$29.99' ]
+Productname: Sauce Labs Backpack
+3 cart products: [ 'Sauce Labs Backpack' ]

@@ -1,0 +1,21 @@
+Product: Sauce Labs Bolt T-Shirt
+Price: $15.99
+Product: Sauce Labs Fleece Jacket
+Price: $49.99
+Product: Sauce Labs Onesie
+Price: $7.99
+All 3 selected products: [
+  'Sauce Labs Bolt T-Shirt',
+  'Sauce Labs Fleece Jacket',
+  'Sauce Labs Onesie'
+]
+All 3 selected products price: [ '$15.99', '$49.99', '$7.99' ]
+Productname: Sauce Labs Bolt T-Shirt,Sauce Labs Fleece Jacket,Sauce Labs Onesie
+3 cart products: [
+  'Sauce Labs Bolt T-Shirt',
+  'Sauce Labs Fleece Jacket',
+  'Sauce Labs Onesie'
+]
+Total price Total: $79.89
+Total: $79.89
+Thank you for your order!

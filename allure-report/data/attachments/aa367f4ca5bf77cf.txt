@@ -1,0 +1,13 @@
+Product: Sauce Labs Backpack
+Price: $29.99
+Product: Sauce Labs Bike Light
+Price: $9.99
+Product: Sauce Labs Onesie
+Price: $7.99
+All 3 selected products: [ 'Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie' ]
+All 3 selected products price: [ '$29.99', '$9.99', '$7.99' ]
+Productname: Sauce Labs Backpack,Sauce Labs Bike Light,Sauce Labs Onesie
+3 cart products: [ 'Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie' ]
+Total price Total: $51.81
+Total: $51.81
+Thank you for your order!

@@ -1,0 +1,4 @@
+Product: Sauce Labs Bike Light
+Price: $9.99
+Product: Sauce Labs Onesie
+Price: $7.99
