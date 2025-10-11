@@ -44,7 +44,7 @@ let productCartPageDisplay=[];
 //randomly choose 3 product in cart
        for (let i=1; i<=3; i++){
          test.slow();
-    const index= await utilities.getRandomNumber(0,5);
+    const index= await utilities.getRandomNumber(1,6);
    await type.addProduct(index);
 
   const product=  await type.getproductName(index);
